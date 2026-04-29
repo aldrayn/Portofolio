@@ -1,0 +1,275 @@
+customer_id,age,gender,education,job,annual_income,city,marital_status
+C0002,46,Female,High School,Sales,9970,Bandung,Single
+C0003,32,Male,High School,Engineer,18920,Bandung,Married
+C0004,25,Male,High School,Student,3625,Bandung,Single
+C0005,38,Female,High School,Engineer,12314,Jakarta,Married
+C0006,56,Male,High School,Student,9973,Medan,Married
+C0007,36,Female,Bachelor,Sales,10577,Surabaya,Single
+C0008,40,Male,High School,Sales,10070,Medan,Single
+C0010,28,Male,Master,Engineer,5600,Bandung,Married
+C0011,41,Female,High School,Teacher,8783,Jakarta,Married
+C0012,53,Male,Master,Engineer,15226,Medan,Single
+C0013,57,Female,Bachelor,Teacher,11146,Jakarta,Married
+C0014,41,Male,High School,Marketing,6971,Surabaya,Single
+C0016,39,Female,Master,Marketing,19589,Jakarta,Married
+C0017,19,Female,Bachelor,Marketing,14951,Medan,Single
+C0018,41,Male,High School,Student,14312,Bandung,Married
+C0019,47,Female,High School,Marketing,3990,Jakarta,Married
+C0020,55,Male,Master,Sales,7299,Bandung,Married
+C0021,19,Female,High School,Sales,14997,Surabaya,Married
+C0022,38,Male,Master,Student,15472,Jakarta,Married
+C0023,50,Female,High School,Marketing,6380,Medan,Single
+C0024,29,Male,Master,Marketing,6757,Surabaya,Single
+C0025,39,Male,High School,Marketing,12395,Surabaya,Married
+C0026,42,Female,Bachelor,Teacher,18241,Medan,Married
+C0027,44,Male,High School,Engineer,7588,Jakarta,Single
+C0028,59,Male,High School,Teacher,19350,Jakarta,Single
+C0029,45,Female,Bachelor,Engineer,6944,Surabaya,Single
+C0030,33,Male,High School,Marketing,15395,Jakarta,Single
+C0031,32,Male,Bachelor,Marketing,19072,Bandung,Married
+C0032,20,Male,High School,Teacher,6243,Medan,Married
+C0034,24,Male,Master,Engineer,11984,Jakarta,Married
+C0035,38,Female,High School,Sales,3759,Surabaya,Single
+C0036,26,Male,High School,Engineer,11181,Medan,Married
+C0037,56,Male,High School,Teacher,4482,Jakarta,Single
+C0038,35,Male,Master,Teacher,2951,Jakarta,Married
+C0039,21,Female,High School,Student,4079,Surabaya,Single
+C0041,31,Male,Bachelor,Student,11692,Bandung,Married
+C0042,26,Female,Master,Sales,9311,Medan,Single
+C0043,43,Male,Master,Engineer,2768,Medan,Married
+C0044,19,Female,Bachelor,Engineer,7490,Surabaya,Married
+C0045,37,Female,Master,Student,17534,Bandung,Single
+C0046,45,Male,High School,Engineer,8645,Medan,Married
+C0047,24,Female,High School,Teacher,7232,Surabaya,Married
+C0048,25,Male,Master,Marketing,13485,Jakarta,Married
+C0049,52,Female,High School,Student,7797,Medan,Married
+C0050,31,Female,Master,Engineer,14342,Bandung,Married
+C0052,53,Female,High School,Student,18002,Bandung,Married
+C0053,57,Female,Master,Marketing,15087,Jakarta,Married
+C0054,21,Female,High School,Teacher,6873,Medan,Married
+C0055,19,Female,Master,Student,3481,Medan,Married
+C0056,23,Female,High School,Engineer,12093,Jakarta,Married
+C0057,59,Male,High School,Sales,16422,Medan,Single
+C0058,21,Female,Bachelor,Student,18438,Jakarta,Married
+C0059,46,Male,Bachelor,Student,9643,Jakarta,Single
+C0060,35,Female,Master,Marketing,17708,Jakarta,Single
+C0061,43,Male,Bachelor,Teacher,13271,Bandung,Single
+C0062,51,Male,Master,Sales,19216,Medan,Single
+C0063,27,Female,Bachelor,Engineer,14600,Jakarta,Married
+C0064,53,Female,High School,Sales,12998,Medan,Single
+C0065,31,Female,Master,Engineer,16295,Bandung,Single
+C0066,48,Male,Master,Teacher,12682,Jakarta,Married
+C0067,32,Female,High School,Engineer,18380,Surabaya,Married
+C0068,25,Male,Master,Marketing,10519,Bandung,Married
+C0069,31,Male,Master,Marketing,5300,Surabaya,Single
+C0070,40,Male,Bachelor,Marketing,8722,Medan,Married
+C0071,57,Female,Master,Marketing,9218,Medan,Married
+C0072,38,Female,High School,Sales,5054,Bandung,Single
+C0073,33,Male,Bachelor,Teacher,15575,Medan,Married
+C0074,35,Male,Bachelor,Engineer,9970,Surabaya,Married
+C0075,41,Female,High School,Engineer,4143,Jakarta,Married
+C0076,43,Male,High School,Marketing,11503,Jakarta,Married
+C0077,42,Female,Bachelor,Marketing,17149,Jakarta,Single
+C0078,58,Male,Master,Student,14175,Bandung,Married
+C0081,18,Female,Bachelor,Engineer,2822,Medan,Married
+C0082,42,Male,High School,Student,19327,Medan,Single
+C0083,24,Female,Bachelor,Student,16289,Medan,Married
+C0084,26,Female,Master,Engineer,8150,Jakarta,Single
+C0085,41,Male,Bachelor,Sales,6425,Surabaya,Single
+C0086,18,Male,Bachelor,Student,18032,Surabaya,Single
+C0087,25,Female,High School,Student,4198,Medan,Single
+C0088,41,Male,High School,Teacher,5452,Jakarta,Married
+C0089,28,Female,High School,Sales,11106,Jakarta,Single
+C0090,34,Male,Bachelor,Student,15859,Surabaya,Married
+C0091,25,Female,Master,Sales,19692,Jakarta,Single
+C0092,52,Female,High School,Engineer,10705,Jakarta,Single
+C0093,52,Female,High School,Marketing,12112,Jakarta,Single
+C0094,50,Female,Bachelor,Student,6841,Bandung,Married
+C0095,22,Female,High School,Teacher,17358,Medan,Single
+C0096,59,Female,Master,Engineer,3409,Surabaya,Married
+C0097,56,Male,Master,Sales,6566,Surabaya,Married
+C0098,58,Male,High School,Engineer,13382,Bandung,Married
+C0099,45,Male,High School,Student,19939,Medan,Married
+C0100,24,Female,Bachelor,Sales,16596,Surabaya,Married
+C0101,26,Female,Master,Marketing,2804,Jakarta,Married
+C0102,25,Female,Master,Engineer,15221,Surabaya,Married
+C0103,29,Female,High School,Student,3279,Jakarta,Married
+C0104,51,Male,Bachelor,Teacher,15192,Bandung,Married
+C0105,50,Male,Master,Sales,9083,Jakarta,Single
+C0106,40,Female,Master,Engineer,13093,Surabaya,Single
+C0107,41,Male,Bachelor,Engineer,19771,Surabaya,Single
+C0108,54,Male,Bachelor,Marketing,14880,Surabaya,Single
+C0109,52,Female,Master,Marketing,17517,Bandung,Single
+C0110,57,Male,Master,Teacher,4106,Bandung,Married
+C0111,39,Female,Bachelor,Teacher,18086,Medan,Married
+C0112,44,Male,Master,Student,6831,Surabaya,Married
+C0113,52,Female,High School,Student,5186,Jakarta,Married
+C0114,18,Female,High School,Teacher,4573,Bandung,Married
+C0115,52,Female,Bachelor,Teacher,14808,Surabaya,Married
+C0116,54,Female,Bachelor,Sales,4599,Surabaya,Married
+C0117,31,Male,Bachelor,Marketing,6033,Bandung,Single
+C0118,20,Female,High School,Student,10428,Medan,Single
+C0119,18,Female,Master,Marketing,3304,Bandung,Single
+C0120,22,Female,High School,Marketing,19685,Bandung,Single
+C0121,43,Male,Master,Teacher,10633,Jakarta,Married
+C0124,44,Female,High School,Sales,18458,Surabaya,Single
+C0125,26,Male,Bachelor,Sales,7475,Bandung,Married
+C0126,32,Male,High School,Marketing,9184,Medan,Married
+C0127,32,Female,Master,Sales,14875,Jakarta,Married
+C0128,43,Male,High School,Student,3622,Bandung,Single
+C0129,59,Female,High School,Marketing,17988,Surabaya,Married
+C0130,30,Female,High School,Student,10041,Jakarta,Single
+C0131,49,Female,Bachelor,Engineer,18725,Jakarta,Single
+C0132,56,Male,High School,Marketing,9992,Jakarta,Single
+C0133,49,Male,Bachelor,Engineer,17646,Medan,Single
+C0134,21,Female,Bachelor,Marketing,19029,Surabaya,Married
+C0136,54,Male,High School,Sales,16060,Medan,Single
+C0137,40,Female,High School,Teacher,17156,Medan,Married
+C0138,56,Female,Master,Engineer,10646,Medan,Married
+C0139,32,Female,High School,Sales,13664,Jakarta,Single
+C0140,46,Male,Bachelor,Marketing,4969,Surabaya,Married
+C0141,53,Male,High School,Sales,5028,Medan,Single
+C0142,30,Male,Master,Student,5629,Bandung,Single
+C0143,49,Female,High School,Sales,5067,Surabaya,Single
+C0144,24,Female,Master,Student,7941,Bandung,Single
+C0146,45,Male,High School,Student,13555,Bandung,Single
+C0147,19,Female,Bachelor,Engineer,15081,Jakarta,Married
+C0148,59,Female,Master,Teacher,8819,Medan,Married
+C0149,23,Female,High School,Marketing,13046,Bandung,Married
+C0150,45,Female,High School,Sales,19717,Surabaya,Married
+C0151,45,Male,Bachelor,Teacher,4711,Medan,Single
+C0152,37,Male,Master,Marketing,6853,Medan,Married
+C0153,47,Female,Master,Marketing,9715,Surabaya,Single
+C0154,28,Male,High School,Student,10942,Bandung,Married
+C0155,45,Male,High School,Engineer,17507,Jakarta,Married
+C0156,42,Female,Bachelor,Engineer,17826,Jakarta,Single
+C0157,56,Female,Bachelor,Teacher,3762,Bandung,Single
+C0158,50,Male,Master,Engineer,17850,Medan,Single
+C0159,18,Female,Master,Sales,14112,Medan,Married
+C0160,44,Male,High School,Engineer,14652,Medan,Married
+C0161,30,Female,Master,Teacher,8122,Medan,Single
+C0162,58,Male,Bachelor,Engineer,2481,Bandung,Single
+C0163,20,Female,Bachelor,Sales,16536,Medan,Single
+C0164,56,Male,High School,Student,2153,Surabaya,Single
+C0165,23,Male,Bachelor,Teacher,9617,Medan,Married
+C0166,25,Male,Bachelor,Student,3524,Jakarta,Single
+C0167,44,Female,Bachelor,Student,4120,Medan,Single
+C0168,26,Male,Bachelor,Student,17048,Bandung,Single
+C0169,54,Male,High School,Marketing,4343,Jakarta,Single
+C0170,50,Female,High School,Marketing,7136,Bandung,Married
+C0171,59,Female,Master,Student,3240,Bandung,Single
+C0172,41,Male,Bachelor,Teacher,2060,Jakarta,Married
+C0173,32,Male,Master,Sales,11130,Bandung,Single
+C0174,49,Female,High School,Sales,14312,Bandung,Single
+C0175,49,Female,High School,Engineer,15350,Medan,Married
+C0177,58,Female,High School,Marketing,3252,Bandung,Married
+C0178,29,Female,High School,Student,10363,Bandung,Married
+C0179,56,Male,High School,Engineer,11650,Bandung,Single
+C0180,19,Female,High School,Sales,18314,Medan,Married
+C0181,20,Male,Bachelor,Marketing,6090,Surabaya,Married
+C0182,54,Male,Master,Marketing,8960,Jakarta,Married
+C0183,34,Male,High School,Student,5004,Medan,Married
+C0184,19,Female,Bachelor,Sales,18713,Medan,Married
+C0186,45,Male,Master,Marketing,3341,Surabaya,Married
+C0187,40,Female,High School,Student,13855,Medan,Married
+C0188,54,Male,Master,Teacher,2338,Jakarta,Single
+C0189,49,Male,High School,Sales,7895,Medan,Single
+C0190,50,Female,Bachelor,Marketing,14254,Surabaya,Married
+C0191,18,Male,Bachelor,Teacher,13344,Jakarta,Single
+C0192,36,Male,Bachelor,Teacher,3750,Surabaya,Married
+C0193,19,Male,Bachelor,Teacher,4421,Jakarta,Married
+C0195,49,Female,High School,Marketing,7319,Surabaya,Married
+C0196,23,Female,High School,Engineer,17896,Surabaya,Married
+C0198,21,Male,High School,Student,15849,Surabaya,Married
+C0199,28,Female,Bachelor,Teacher,6873,Surabaya,Single
+C0200,34,Male,High School,Engineer,6806,Bandung,Married
+C0201,55,Male,Bachelor,Student,10592,Surabaya,Married
+C0202,41,Female,Master,Engineer,14182,Bandung,Married
+C0203,22,Female,High School,Marketing,18774,Bandung,Single
+C0204,51,Male,Master,Teacher,14045,Bandung,Married
+C0205,23,Male,High School,Student,6430,Bandung,Single
+C0206,39,Male,Bachelor,Student,10820,Jakarta,Single
+C0208,33,Female,High School,Student,13122,Jakarta,Married
+C0209,50,Female,Bachelor,Student,17023,Surabaya,Single
+C0210,26,Female,Master,Engineer,10007,Jakarta,Married
+C0211,23,Male,Master,Teacher,19905,Jakarta,Single
+C0212,33,Female,High School,Marketing,11018,Surabaya,Single
+C0213,46,Female,High School,Marketing,3500,Surabaya,Married
+C0214,20,Female,High School,Marketing,8737,Surabaya,Married
+C0215,37,Female,Bachelor,Marketing,5294,Jakarta,Single
+C0216,53,Female,High School,Engineer,6497,Jakarta,Single
+C0217,36,Male,Master,Sales,19850,Surabaya,Single
+C0218,43,Male,Master,Teacher,2614,Medan,Single
+C0219,20,Female,High School,Student,11374,Medan,Married
+C0220,36,Male,High School,Sales,4667,Bandung,Married
+C0221,37,Female,Master,Marketing,15409,Surabaya,Married
+C0222,49,Female,Bachelor,Sales,18514,Bandung,Married
+C0223,24,Male,High School,Teacher,4983,Medan,Married
+C0224,58,Male,High School,Student,14651,Bandung,Single
+C0225,50,Female,Master,Student,10230,Surabaya,Married
+C0226,57,Female,High School,Teacher,8640,Surabaya,Married
+C0227,56,Female,Bachelor,Teacher,13779,Surabaya,Married
+C0228,35,Male,Master,Marketing,17317,Jakarta,Married
+C0229,57,Female,High School,Student,19304,Bandung,Married
+C0230,18,Female,Master,Sales,9564,Medan,Single
+C0231,28,Female,High School,Engineer,17520,Medan,Single
+C0232,45,Male,High School,Engineer,15737,Medan,Single
+C0233,42,Female,High School,Teacher,11323,Jakarta,Married
+C0234,40,Female,Bachelor,Marketing,17229,Jakarta,Single
+C0235,48,Male,Bachelor,Engineer,13713,Surabaya,Single
+C0236,47,Female,Master,Student,10502,Medan,Married
+C0237,59,Female,High School,Teacher,2545,Jakarta,Married
+C0238,52,Male,High School,Sales,6346,Surabaya,Married
+C0239,24,Female,Bachelor,Teacher,11996,Medan,Single
+C0240,33,Male,High School,Sales,17775,Bandung,Single
+C0241,43,Male,Bachelor,Teacher,15919,Surabaya,Married
+C0242,19,Female,High School,Teacher,5810,Jakarta,Married
+C0243,18,Female,Master,Teacher,9206,Jakarta,Single
+C0245,22,Female,High School,Sales,18371,Surabaya,Married
+C0246,54,Male,Bachelor,Teacher,14316,Jakarta,Married
+C0248,26,Male,High School,Marketing,14984,Medan,Married
+C0249,58,Female,Bachelor,Marketing,2271,Bandung,Single
+C0250,52,Female,Master,Marketing,12616,Surabaya,Single
+C0251,36,Female,Master,Sales,6361,Bandung,Single
+C0252,33,Male,Bachelor,Sales,9069,Jakarta,Single
+C0253,20,Female,Bachelor,Engineer,19304,Surabaya,Married
+C0254,37,Female,Bachelor,Marketing,5430,Medan,Married
+C0255,41,Female,Bachelor,Marketing,14676,Jakarta,Single
+C0256,50,Female,Bachelor,Teacher,12816,Jakarta,Single
+C0257,41,Male,Master,Sales,4050,Medan,Single
+C0258,28,Female,Master,Marketing,13692,Medan,Single
+C0259,25,Male,Bachelor,Engineer,3165,Bandung,Single
+C0260,53,Male,High School,Engineer,4033,Surabaya,Married
+C0261,55,Male,Bachelor,Marketing,2145,Medan,Married
+C0262,57,Male,High School,Sales,16269,Medan,Married
+C0263,37,Male,Bachelor,Engineer,9832,Surabaya,Married
+C0264,52,Male,Bachelor,Teacher,16286,Medan,Single
+C0266,52,Male,High School,Student,6494,Bandung,Single
+C0267,42,Male,High School,Student,17152,Jakarta,Single
+C0268,46,Male,Master,Sales,11155,Jakarta,Single
+C0270,35,Female,Master,Sales,12233,Jakarta,Single
+C0272,52,Female,High School,Sales,14260,Surabaya,Married
+C0273,33,Male,High School,Sales,11130,Surabaya,Married
+C0274,58,Male,Bachelor,Teacher,6805,Bandung,Married
+C0275,53,Female,Bachelor,Teacher,2806,Bandung,Single
+C0276,50,Male,Master,Engineer,10202,Medan,Married
+C0277,21,Female,Master,Student,3868,Surabaya,Married
+C0278,50,Female,Master,Sales,16561,Surabaya,Married
+C0279,31,Male,Bachelor,Engineer,17512,Jakarta,Single
+C0280,38,Male,Bachelor,Student,16899,Medan,Single
+C0281,37,Female,Bachelor,Marketing,18220,Medan,Single
+C0283,24,Male,Bachelor,Student,7429,Medan,Married
+C0284,20,Male,Bachelor,Marketing,11076,Medan,Single
+C0285,34,Female,Bachelor,Student,5564,Bandung,Married
+C0286,50,Female,Master,Teacher,3389,Surabaya,Single
+C0287,29,Male,Master,Teacher,13593,Medan,Single
+C0288,39,Female,Master,Engineer,9274,Bandung,Married
+C0289,39,Female,Master,Sales,19208,Surabaya,Married
+C0290,47,Female,Bachelor,Student,19320,Jakarta,Married
+C0291,55,Female,High School,Student,12745,Bandung,Married
+C0292,55,Female,Bachelor,Marketing,16199,Bandung,Single
+C0293,25,Male,High School,Teacher,17876,Surabaya,Single
+C0294,44,Male,Master,Student,10245,Jakarta,Single
+C0295,44,Male,Bachelor,Teacher,9214,Bandung,Single
+C0298,47,Male,Master,Sales,13362,Medan,Single
+C0300,45,Male,High School,Teacher,9657,Bandung,Single
