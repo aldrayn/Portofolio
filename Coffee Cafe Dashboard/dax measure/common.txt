@@ -1,0 +1,42 @@
+================================================
+Total Revenue
+================================================
+CALCULATE(
+                    SUM(order_details[line_total]),
+                    CROSSFILTER(
+                        orders[order_id],
+                        order_details[order_id],
+                        Both
+                    )
+
+)
+
+================================================
+Total Profit
+================================================
+[Total Revenue] - SUMX(order_details, order_details[quantity] * RELATED(products[cost_price]))
+
+================================================
+Total Orders
+================================================
+CALCULATE(
+                    DISTINCTCOUNT(order_details[order_id]), 
+                    CROSSFILTER(order_details[order_id], orders[order_id], Both)
+)
+
+================================================
+Total Items Sold
+================================================
+
+                    SUM(order_details[quantity])
+
+================================================
+Profit Margin
+================================================
+DIVIDE([Total Profit], [Total Revenue])
+
+================================================
+Average Order Value
+================================================
+[Total Revenue] / [Total Orders]
+

@@ -1,0 +1,142 @@
+================================================
+Purchasing Customer
+================================================
+CALCULATE(DISTINCTCOUNT(orders[customer_id]), CROSSFILTER(orders[order_id], order_details[order_id], Both))
+
+================================================
+Purchasing Customer Rate
+================================================
+
+VAR CurrentDate = MAX('date'[Date])
+VAR TotalCustomer =
+    CALCULATE(
+        COUNT(customers[customer_id]),
+        FILTER(
+            ALL(customers),
+            customers[join_date] <= CurrentDate
+        )
+    )
+VAR Rate =
+    DIVIDE(
+        [Purchasing Customer],
+        TotalCustomer
+    )
+
+RETURN FORMAT(Rate, "0.00%")
+
+================================================
+Total Joined
+================================================
+CALCULATE(
+                COUNT(customers[customer_id]),
+                FILTER(
+                    customers,
+                    customers[join_date] <= MAX('date'[Date])
+                ))
+
+================================================
+Returned Customer
+================================================
+COUNTROWS(
+                        FILTER(
+                            VALUES(customers[customer_id]),
+                            CALCULATE(COUNTROWS(orders)) > 1
+))
+
+================================================
+New Joined Customers
+================================================
+
+VAR StartDate = MIN('Date'[Date])
+VAR EndDate   = MAX('Date'[Date])
+
+RETURN
+CALCULATE(
+    DISTINCTCOUNT(customers[customer_id]),
+    FILTER(
+        customers,
+        customers[join_date] >= StartDate &&
+        customers[join_date] <= EndDate
+    )
+)
+
+================================================
+New Joined Purchasing Customers
+================================================
+
+
+VAR StartDate = MIN('date'[Date])
+VAR EndDate = MAX('date'[Date])
+
+VAR NewJoinedCustomer = CALCULATETABLE(
+    VALUES(customers[customer_id]),
+    FILTER(
+        customers,
+        customers[join_date] >= StartDate && customers[join_date] <= EndDate
+    )
+)
+VAR PurchasingCustomer = CALCULATETABLE(
+        VALUES(orders[customer_id]),
+        FILTER(
+            ALL(orders),
+            orders[order_date] >= StartDate && orders[order_date] <= EndDate
+        )
+    )
+RETURN
+    COUNTROWS(INTERSECT(NewJoinedCustomer, PurchasingCustomer))
+
+================================================
+Avg Revenue per Customer
+================================================
+AVERAGEX(
+    VALUES(orders[customer_id]),
+    [Total Revenue]
+)
+
+================================================
+Avg Orders per Customer
+================================================
+AVERAGEX(
+    VALUES(orders[customer_id]),
+    [Total Orders]
+)
+
+================================================
+Majority Order by Age Segment
+================================================
+
+MAXX(
+    TOPN(
+    1,
+    ADDCOLUMNS(
+        VALUES(customers[age_bins]),
+        "NumberOrder", [Total Orders]
+    ),
+    [NumberOrder], DESC
+    ), customers[age_bins]
+
+)
+
+================================================
+Product Favorite by Customers
+================================================
+
+VAR tbl = ADDCOLUMNS(
+    VALUES(products[product_name]),
+    "TotalCustomer", [Purchasing Customer]
+)
+VAR Top1 = TOPN(1, tbl, [TotalCustomer], DESC)
+RETURN MAXX(Top1, products[product_name])
+
+================================================
+Number Customer Product Favorite
+================================================
+
+VAR tbl = ADDCOLUMNS(
+    VALUES(products[product_name]),
+    "TotalCustomer", [Purchasing Customer]
+)
+VAR Top1 = TOPN(1, tbl, [TotalCustomer], DESC)
+RETURN 
+    "Number Customers: " & MAXX(Top1, [TotalCustomer])
+

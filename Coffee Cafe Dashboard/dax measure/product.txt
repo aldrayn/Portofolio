@@ -1,0 +1,139 @@
+================================================
+Best Seller
+================================================
+
+ VAR TopProduct = TOPN(
+                        1,
+                        ADDCOLUMNS(
+                            VALUES(products[product_name]), 
+                            "TotalQty", [Total Items Sold]
+                        )
+                        ,
+                        [TotalQty],
+                        DESC
+ )
+RETURN
+    MAXX(TopProduct, products[product_name])
+
+================================================
+Top Category
+================================================
+
+VAR TopCat = TOPN(
+                1,
+                 SUMMARIZE(
+                    order_details, 
+                    products[category],
+                    "Category Qty", SUM(order_details[quantity])
+                )
+)
+RETURN 
+    MAXX(TopCat, products[category])
+
+================================================
+Total Product
+================================================
+
+VAR CurrentDate =
+    MAX('date'[Date])
+
+RETURN
+CALCULATE(
+    DISTINCTCOUNT(products[product_id]),
+    FILTER(
+        products,
+        products[launch_date] <= CurrentDate
+))
+
+================================================
+Total Purchased Product
+================================================
+
+DISTINCTCOUNT(order_details[product_id])
+
+
+
+================================================
+Avg per Product
+================================================
+
+AVERAGEX(
+    VALUES(products[product_id]),
+    [Total Revenue]
+)
+
+================================================
+Max Revenue per Product
+================================================
+
+    MAXX(
+        VALUES(products[product_name]),
+        [Total Revenue]
+    )
+
+================================================
+Min Revenue per Product
+================================================
+
+    MINX(
+            VALUES(products[product_name]),
+            [Total Revenue]
+        )
+
+================================================
+Product Best Revenue
+================================================
+
+VAR BestProduct = TOPN(
+    1,
+    ADDCOLUMNS(
+        VALUES(products[product_name]),
+        "TotalRevenue", [Total Revenue]
+    ),
+    [TotalRevenue],
+    DESC
+    
+)
+
+RETURN
+    MAXX(BestProduct, products[product_name])
+
+================================================
+Product Bad Revenue
+================================================
+
+VAR BadProduct =
+    TOPN(
+        1,
+        ADDCOLUMNS(
+            VALUES(order_details[product_id]),
+            "Revenue", [Total Revenue]
+        ),
+        [Revenue], ASC,
+        order_details[product_id], ASC
+    )
+RETURN
+MAXX(
+    BadProduct,
+    LOOKUPVALUE(
+        products[product_name],
+        products[product_id],
+        order_details[product_id]
+    )
+)
+
+================================================
+Number of Order Best Seller Product
+================================================
+
+VAR top1 = TOPN(
+            1,
+            ADDCOLUMNS(
+                VALUES(products[product_id]), 
+                "TotalItem", [Total Items Sold]
+            ),
+            [TotalItem],
+            DESC
+)
+RETURN "Total Product Sold: " & MAXX(top1, [Total Items Sold])
+

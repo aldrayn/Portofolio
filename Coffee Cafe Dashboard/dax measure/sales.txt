@@ -1,0 +1,146 @@
+================================================
+Average Item Sold Every Time
+================================================
+AVERAGEX(
+    VALUES(orders[order_date]), 
+    CALCULATE(SUM(order_details[quantity]))
+)
+
+================================================
+Average Order Every Time
+================================================
+AVERAGEX(
+    VALUES(orders[order_date]), 
+    CALCULATE(DISTINCTCOUNT(orders[order_id])
+))
+
+================================================
+Average Sales Every Time
+================================================
+AVERAGEX(
+    VALUES(orders[order_date]), 
+    CALCULATE(SUM(order_details[line_total]))
+)
+
+================================================
+Average Item per Order
+================================================
+CALCULATE(
+    DIVIDE(
+        SUM(order_details[quantity]), 
+        DISTINCTCOUNT(order_details[order_id])
+    ), 
+    CROSSFILTER(
+        order_details[order_id], 
+        orders[order_id], 
+        Both)
+)
+
+================================================
+Largest Order
+================================================
+
+VAR Top1Order = TOPN(
+                  1,
+                  ADDCOLUMNS(
+                    VALUES(orders[order_id]),
+                    "TotalProductItem", [Total Items Sold]
+                  ),
+                  [TotalProductItem],
+                  DESC
+)
+
+RETURN MAXX(
+    Top1Order,
+    orders[order_id]
+)
+
+================================================
+Largest Order Label
+================================================
+
+VAR LargestOrder = [Largest Order]
+
+VAR TotalSales =
+    CALCULATE(
+        [Total Revenue],
+        FILTER(
+            ALL(order_details),
+            order_details[order_id] = LargestOrder
+        )
+    )
+
+VAR TotalProductItem =
+    CALCULATE(
+        [Total Items Sold],
+        FILTER(
+            ALL(order_details),
+            order_details[order_id] = LargestOrder
+        )
+    )
+
+RETURN
+    "Sales: "
+        & FORMAT(TotalSales / 1000000, "0.00")
+        & "M, "
+        & UNICHAR(10)
+        & "Items: "
+        & FORMAT(TotalProductItem, "#,##0")
+
+================================================
+Maximum Order Value
+================================================
+
+    MAXX(
+        values(order_details[order_id]),
+        [Total Revenue]
+        )
+
+================================================
+Lowest Order
+================================================
+
+VAR Bottom1Order = TOPN(
+                        1,
+                        FILTER(
+                            VALUES(orders[order_id]),
+                            CALCULATE(MAX(order_details[quantity])) > 0
+                        ),
+                        [Total Revenue],
+                        ASC
+)
+RETURN
+    MAXX(Bottom1Order, orders[order_id])
+
+
+================================================
+Lowest Order Label
+================================================
+
+VAR LowestOrder = [Lowest Order]
+
+VAR TotalSales =
+    CALCULATE(
+        [Total Revenue],
+        FILTER(
+            ALL(order_details),
+            order_details[order_id] = LowestOrder
+        )
+    )
+
+VAR TotalProductItem =
+    CALCULATE(
+        [Total Items Sold],
+        FILTER(
+            ALL(order_details),
+            order_details[order_id] = LowestOrder
+        )
+    )
+
+RETURN
+    "Sales: "
+        & FORMAT(TotalSales / 1000, "0K")
+        & UNICHAR(10)
+        & "Items: "
+        & FORMAT(TotalProductItem, "#,##0")
+
