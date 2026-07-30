@@ -1,0 +1,201 @@
+customer_id,customer_name,gender,birth_date,phone,email,city,province,join_date,customer_segment
+CUST0001,Rian Pratama,Male,05 Oct 1994,+628004522774,rianpratama807@outlook.com,Makassar,Sulawesi Selatan,2024-09-16,member
+CUST0002,Retno Wibowo,Female,1977-06-11,08758944342  ,retnowibowo83@mail.com,Medan,Sumatera Utara,23/10/2022,Member
+CUST0003,Melati Adiputra,Male,02-02-1982,08571542948,melatiadiputra357@mail.com,Surabaya,Jawa Timur,04 Oct 2024,regular
+CUST0004,Krisna Susanto,Female,27/05/1990,08021788084,krisnasusanto531@yahoo.com,Semarang,Jawa Tengah,04-07-2024,Regular
+CUST0005,Hadi Hidayat,Female,06 Apr 1998,08621550994,hadihidayat511@yahoo.com,Surabaya,Jawa Timur,09 Nov 2023,Membre
+CUST0006,Hendra Gunawan,Female,15 Feb 1976,08827495822  ,hendragunawan458@yahoo.com,Surabaya,Jawa Timur,12-11-2022,Membre
+CUST0007,Fikri Pratama,Male,1988-06-05,08077836894,fikripratama515@yahoo.com,Surabaya,Jawa Timur,25 Jul 2021,vip
+CUST0008,budi halim,Female,2005-01-21,0893-6688-833,,Palembang,Sumatera Selatan,02 Nov 2024,VIP
+CUST0009,Rizky Lestari,Male,20-04-1971,08072315571,rizkylestari635@mail.com,Semarang,Jawa Tengah,09 Apr 2024,Reguler
+CUST0010,EKO WAHYUNI,Female,1977-02-01,0809-9296-439,ekowahyuni243@gmail.com,Surabaya,Jawa Timur,23 Mar 2024,REGULAR
+CUST0011,Ayu Saputra,F,15-03-1997,+628789728212,ayusaputra926@gmail.com,Jakarta,DKI Jakarta,25/09/2022,Member
+CUST0012,Agus Yulianto,Male,13 Mar 1994,628835219992,agusyulianto480@gmail.com,Jakarta,DKI Jakarta,08-04-2022,Vip
+CUST0013,Agus Kusumo,Male,2003-08-07,08658912085,aguskusumo651@gmail.com,Surabaya,Jawa Timur,2024-08-22,regular
+CUST0014,INDRA SUSANTO,Female,23-08-1986,0867-9471-404,indrasusanto34@outlook.com,Bandung,Jawa Barat,2023-06-28,regular
+CUST0015,Melati Suryani,Male,07-07-1978,+628998026903,melatisuryani71@yahoo.com,Yogyakarta,DI Yogyakarta,01/03/2022,member
+CUST0016,Zahra Prasetyo,Female,1994-03-26,08216007231,zahraprasetyo760@yahoo.com,Jakarta,DKI Jakarta,11 May 2021,REGULAR
+CUST0017,Lina Wibowo   ,Male,2000-10-11,628174831165,linawibowo612@mail.com,Semarang,Jawa Tengah,02/11/2023,Member
+CUST0018,Rudi Gunawan,Female,23-09-2002,08046319080,,Jakarta,DKI Jakarta,2024-04-16,Vip
+CUST0019,Nita Suryani,Male,22-04-1972,628963526218,nitasuryani781@gmail.com,Bandung,Jawa Barat,2023-05-29,Member
+CUST0020,Yusuf Handayani,M,05/06/1976,628541607243,yusufhandayani739@outlook.com,Makassar,Sulawesi Selatan,06/05/2024,Regular
+CUST0021,RIAN ANGGRAINI  ,Male,1975-02-08,+628316553290,riananggraini969@outlook.com,Jakarta,DKI Jakarta,08 Jun 2022,Regular
+CUST0022,salsa firmansyah,Female,20-12-1999,0880-8009-855,salsafirmansyah118@outlook.com,Surabaya,Jawa Timur,2021-12-18,Membre
+CUST0023,RUDI MAHARANI,Male,02/12/1983,+628727065173,,Bandung,Jawa Barat,22 Dec 2021,Member
+CUST0024,Dedi Lestari,Female,04-11-1998,08668610432,,Semarang,Jawa Tengah,2023-07-15,REGULAR
+CUST0025,Intan Maharani  ,Female,24-08-1995,08634101837,intanmaharani254@gmail.com,Semarang,Jawa Tengah,10-12-2023,member
+CUST0026,Anisa Nugroho,F,20 Apr 1998,628600627698,anisanugroho597@gmail.com,Surabaya,Jawa Timur,28/09/2022,Vip
+CUST0027,Sinta Purnama,Male,25/09/1975,+628687656433,sintapurnama350@yahoo.com,Semarang,Jawa Tengah,2022-01-29,regular
+CUST0028,Doni Maharani,Female,14-08-1993,+628037131878,donimaharani45@mail.com,Malang,Jawa Timur,02 May 2022,Vip
+CUST0029,wulan kusuma,Female,1978-09-14,08399423598,wulankusuma54@outlook.com,Surabaya,Jawa Timur,10-02-2024,Vip
+CUST0030,agus lestari,Female,11/02/1974,628924300529,aguslestari29@yahoo.com,Jakarta,DKI Jakarta,2024-08-24,regular
+CUST0031,Doni Yulianto,Male,1990-02-14,+628690219647,,Medan,Sumatera Utara,2024-08-01,Membre
+CUST0032,Bagus Prasetyo,Female,2002-03-26,08146246090,bagusprasetyo895@mail.com,Palembang,Sumatera Selatan,04-03-2023,vip
+CUST0033,Zahra Santoso,Female,24/12/2002,+628713368694,zahrasantoso65@yahoo.com,Semarang,Jawa Tengah,2021-03-17,Regular
+CUST0034,Maya Yulianto,Female,1971-08-23,0871-3783-138,mayayulianto348@mail.com,Semarang,Jawa Tengah,18 Nov 2024,REGULAR
+CUST0035,Agus Firmansyah,Female,04-08-1973,08324714479  ,agusfirmansyah655@outlook.com,Jakarta,DKI Jakarta,03/06/2021,Membre
+CUST0036,Siti Hidayat,Male,02/08/1980,08733566937,sitihidayat408@outlook.com,Bandung,Jawa Barat,27 May 2022,VIP
+CUST0037, Bambang Rahmawati  ,Female,24-12-1978,628184840683,bambangrahmawati564@gmail.com,Surabaya,Jawa Timur,19/11/2021,member
+CUST0038,Putri Pratama,Female,03/09/1995,0838-5603-975,putripratama129@gmail.com,Palembang,Sumatera Selatan,01/06/2021,REGULAR
+CUST0039,Naufal Hidayat,Male,12/11/1976,08319295201  ,naufalhidayat641@yahoo.com,Yogyakarta,DI Yogyakarta,11/07/2021,member
+CUST0040,Yoga Anggraini,Female,1971-04-10,08097225608  ,yogaanggraini495@outlook.com,Malang,Jawa Timur,12/04/2023,Regular
+CUST0041,Yuni Firmansyah,Female,23/03/2002,0839-3375-121,,Surabaya,Jawa Timur,26/02/2023,vip
+CUST0042,Citra Utami,Male,1993-02-02,628484034250,citrautami612@mail.com,Palembang,Sumatera Selatan,09 Oct 2024,Regular
+CUST0043,Bayu Prasetyo,M,18/04/1972,08515057296,,Surabaya,Jawa Timur,26/11/2022,MEMBER
+CUST0044, Sinta    Puspita,Male,15-02-1993,0819-3368-555,sintapuspita487@outlook.com,Surabaya,Jawa Timur,2022-11-10,Membre
+CUST0045,Sinta Susanto,Female,17 Mar 1980,08751668160,sintasusanto20@yahoo.com,Medan,Sumatera Utara,07 Nov 2021,regular
+CUST0046,Fikri   Maharani,Male,08-10-1977,+628455686824,fikrimaharani572@outlook.com,Surabaya,Jawa Timur,15 Aug 2022,Membre
+CUST0047,Ratna Kusuma,Male,08/05/2000,0858-3371-090,ratnakusuma766@outlook.com,Bandung,Jawa Barat,2024-01-09,REGULAR
+CUST0048,Galih Halim,Female,1998-08-14,0821-3461-991,galihhalim667@mail.com,Surabaya,Jawa Timur,20/10/2022,Regular
+CUST0049,Retno Halim,Female,20 Nov 1977,628908717820,retnohalim951@gmail.com,Surabaya,Jawa Timur,20/07/2023,Vip
+CUST0050,Kirana Puspita,Male,02 Aug 1990,0867-0326-166,kiranapuspita528@mail.com,Medan,Sumatera Utara,02-10-2024,regular
+CUST0051,TEGUH WIBOWO,Male,14/10/1984,08370660134  ,teguhwibowo655@gmail.com,Surabaya,Jawa Timur,23 Jan 2023,member
+CUST0052,Fitri Gunawan,Male,14/02/1991,628788765755,fitrigunawan940@gmail.com,Jakarta,DKI Jakarta,27/01/2024,VIP
+CUST0053,Maya   Maharani,M,02 Dec 1975,08540487387,mayamaharani434@gmail.com,Jakarta,DKI Jakarta,2024-01-14,VIP
+CUST0054,doni firmansyah  ,Female,07 Aug 1973,+628665631557,,Surabaya,Jawa Timur,07/08/2023,Membre
+CUST0055,Hendra Gunawan,Female,23/01/1975,08066982054,,Semarang,Jawa Tengah,25-04-2022,Member
+CUST0056,Wulan Adiputra,Female,20 May 1984,+628289542557,wulanadiputra570@mail.com,Surabaya,Jawa Timur,10 Aug 2024,MEMBER
+CUST0057,Fitri Nugroho,Male,1983-06-29,628814044532,fitrinugroho945@gmail.com,Surabaya,Jawa Timur,09-07-2021,member
+CUST0058,Sari    Wahyuni,Female,08-12-1984,+628392177796,sariwahyuni938@mail.com,Surabaya,Jawa Timur,03-08-2022,REGULAR
+CUST0059,Iwan Puspita,Female,01 Mar 2004,08893452129  ,iwanpuspita157@outlook.com,Bandung,Jawa Barat,17-02-2023,member
+CUST0060,Eko Lestari,Female,1977-07-19,08731518995,,Jakarta,DKI Jakarta,15/07/2024,regular
+CUST0061,Lina Gunawan,Female,04-09-1991,0860-5407-525,linagunawan110@yahoo.com,Yogyakarta,DI Yogyakarta,01-11-2021,REGULAR
+CUST0062,ZAHRA RAHMAWATI,Male,2001-04-11,08268687035,zahrarahmawati720@gmail.com,Semarang,Jawa Tengah,2023-06-08,MEMBER
+CUST0063,Wulan Pratama,Female,03-05-1973,0862-5618-021,wulanpratama307@gmail.com,Bandung,Jawa Barat,06 Mar 2024,Membre
+CUST0064,rian halim,Female,1985-07-07,628048379370,rianhalim503@mail.com,Yogyakarta,DI Yogyakarta,08-02-2023,Reguler
+CUST0065,Aditya   Wibowo ,Male,1974-02-08,08033211454,adityawibowo363@gmail.com,Denpasar,Bali,09-05-2024,Membre
+CUST0066,Nita Rahmawati,Female,21 Nov 1980,0851-3134-044,nitarahmawati370@gmail.com,Bandung,Jawa Barat,2024-07-04,regular
+CUST0067,BAYU NUGROHO,Female,13-10-1984,+628448653664,bayunugroho992@mail.com,Palembang,Sumatera Selatan,03 Oct 2023,VIP
+CUST0068,Ayu Adiputra,Female,23 Jun 1994,0817-0792-780,ayuadiputra143@mail.com,Bandung,Jawa Barat,2022-06-02,Membre
+CUST0069,Yuni Anggraini,Female,10-01-2001,628409785912,yunianggraini663@yahoo.com,Makassar,Sulawesi Selatan,14 Aug 2024,Membre
+CUST0070,RIZKY SAPUTRA,Female,05/11/2000,0854-3755-301,rizkysaputra119@gmail.com,Jakarta,DKI Jakarta,15 Dec 2022,Reguler
+CUST0071,RATNA SUSANTO,Male,03/01/1972,+628818661921,ratnasusanto574@outlook.com,Semarang,Jawa Tengah,20 Apr 2022,member
+CUST0072,Joko Saputra,Male,14 Mar 1970,0872-7801-813,jokosaputra269@gmail.com,Semarang,Jawa Tengah,17 Dec 2023,vip
+CUST0073,Anton Kurniawan,Female,01/09/2001,0889-5632-131,,Medan,Sumatera Utara,17 May 2023,regular
+CUST0074,doni hidayat,Female,07-06-1970,+628413564474,,Bandung,Jawa Barat,22/08/2022,regular
+CUST0075,Naufal Gunawan,Female,10 Sep 1995,08178380759,naufalgunawan305@yahoo.com,Jakarta,DKI Jakarta,2023-07-11,Regular
+CUST0076,naufal kusumo,Female,2001-11-18,+628646788555,naufalkusumo721@outlook.com,Makassar,Sulawesi Selatan,02/07/2022,Vip
+CUST0077, Rian Kusumo  ,Male,1981-02-07,08764524468,riankusumo528@mail.com,Surabaya,Jawa Timur,2023-07-21,vip
+CUST0078,Dimas Gunawan,Female,04 Nov 1987,628242283554,,Semarang,Jawa Tengah,03 Feb 2021,regular
+CUST0079,budi firmansyah,Male,17/02/1977,+628880306606,,Jakarta,DKI Jakarta,03/01/2021,Regular
+CUST0080,Bambang Wahyuni  ,Male,09/03/1987,+628081323886,bambangwahyuni544@gmail.com,Denpasar,Bali,24/08/2024,REGULAR
+CUST0081,Anisa Firmansyah,Male,12 Apr 1976,08753931205  ,anisafirmansyah869@gmail.com,Surabaya,Jawa Timur,25-02-2022,member
+CUST0082,Intan Wijaya,Male,24-10-1980,628455999185,intanwijaya782@yahoo.com,Jakarta,DKI Jakarta,04/02/2021,Member
+CUST0083,ANDI YULIANTO,Female,23 Jun 1992,+628744651009,andiyulianto401@outlook.com,Palembang,Sumatera Selatan,26/10/2024,MEMBER
+CUST0084,DEWI WIBOWO,Male,16-11-1983,628661010435,,Bandung,Jawa Barat,30 Aug 2021,Member
+CUST0085,AYU PUSPITA,Female,02/06/1990,08508117861,ayupuspita880@gmail.com,Bandung,Jawa Barat,05/04/2021,Reguler
+CUST0086,TEGUH MAHARANI,Female,1980-01-27,08347203591,teguhmaharani71@mail.com,Surabaya,Jawa Timur,29-09-2022,Reguler
+CUST0087,Nadia Nugroho,Female,1996-07-17,08997757190  ,nadianugroho974@gmail.com,Malang,Jawa Timur,10/02/2023,MEMBER
+CUST0088,Bambang Wibowo,Female,21/07/1982,+628098573900,bambangwibowo77@mail.com,Jakarta,DKI Jakarta,10-06-2023,member
+CUST0089,Eko Maharani,Female,1984-04-08,08429171143,ekomaharani988@outlook.com,Semarang,Jawa Tengah,24/09/2022,Regular
+CUST0090,Aditya Wahyuni,Female,14/09/1984,0817-9302-819,adityawahyuni97@yahoo.com,Jakarta,DKI Jakarta,06/09/2021,regular
+CUST0091,Citra Rahmawati,Female,11 Aug 1981,08909168088,citrarahmawati965@gmail.com,Jakarta,DKI Jakarta,2024-03-21,Reguler
+CUST0092,Sari Wahyuni,Female,03 Jan 1990,+628806224502,sariwahyuni205@mail.com,Yogyakarta,DI Yogyakarta,26-05-2022,Member
+CUST0093,Tuti Kusuma,Female,17/02/1982,+628132870957,tutikusuma103@yahoo.com,Bandung,Jawa Barat,30 Jun 2022,Member
+CUST0094,Ratna Yulianto,Male,2003-02-10,0869-0795-519,ratnayulianto180@outlook.com,Jakarta,DKI Jakarta,26 Apr 2021,regular
+CUST0095,Budi Utami,Male,29 Dec 2005,628830597889,,Surabaya,Jawa Timur,23 Oct 2022,regular
+CUST0096,intan utami,Female,21 Apr 2005,08368372107  ,intanutami187@gmail.com,Denpasar,Bali,29/03/2022,Member
+CUST0097,WAHYU HALIM,Male,24 Dec 1973,08867302637,wahyuhalim396@gmail.com,Medan,Sumatera Utara,07-12-2021,vip
+CUST0098,RETNO RAHMAWATI,Female,2000-10-28,+628247002138,retnorahmawati561@gmail.com,Jakarta,DKI Jakarta,24 Nov 2022,Membre
+CUST0099,Intan Setiawan,Male,10/07/1978,0845-9562-035,intansetiawan56@yahoo.com,Medan,Sumatera Utara,2021-06-29,Reguler
+CUST0100,siti pratama,Male,1983-11-01,08748263331,sitipratama451@outlook.com,Bandung,Jawa Barat,2022-07-05,member
+CUST0101,Yoga Suryani,Female,26/09/1972,08884584840,yogasuryani124@yahoo.com,Semarang,Jawa Tengah,21/12/2021,VIP
+CUST0102,Bayu Wijaya,Male,19 Feb 1998,08153780558  ,bayuwijaya806@gmail.com,Makassar,Sulawesi Selatan,07/12/2023,Member
+CUST0103,Fitri Permata,Female,30 Mar 1995,+628778882654,,Denpasar,Bali,26-10-2024,Member
+CUST0104,KRISNA WIBOWO,Male,26/02/1985,0883-2460-819,krisnawibowo276@outlook.com,Denpasar,Bali,15 Aug 2024,Reguler
+CUST0105,Salsa Susanto,Female,17 Feb 1977,08074755182,salsasusanto34@yahoo.com,Surabaya,Jawa Timur,2022-02-12,Reguler
+CUST0106,Melati Saputra,Male,1991-04-16,08531876231,melatisaputra663@yahoo.com,Bandung,Jawa Barat,06 Jul 2022,Member
+CUST0107,Anisa Hidayat,Male,14-09-1983,08772884235  ,anisahidayat8@gmail.com,Malang,Jawa Timur,2023-02-06,MEMBER
+CUST0108,Tuti Santoso,Male,07 Jun 1999,628782178886,,Semarang,Jawa Tengah,29 Aug 2022,Reguler
+CUST0109,Salsa Wijaya,Female,31-12-2001,+628257965888,salsawijaya100@outlook.com,Bandung,Jawa Barat,2024-02-19,member
+CUST0110,wulan suryani,Male,03-09-1986,08228485908,wulansuryani543@mail.com,Jakarta,DKI Jakarta,05 Nov 2021,regular
+CUST0111,Wati Prasetyo,Male,10 Dec 2004,+628039304275,watiprasetyo805@mail.com,Jakarta,DKI Jakarta,23 Sep 2021,Membre
+CUST0112,TUTI RAHMAWATI,Female,15 Jun 1984,08750072831  ,tutirahmawati67@yahoo.com,Surabaya,Jawa Timur,19/08/2022,REGULAR
+CUST0113,Wahyu Prasetyo,Male,1988-02-05,0802-9205-177,wahyuprasetyo790@outlook.com,Jakarta,DKI Jakarta,2024-05-01,Vip
+CUST0114,DEWI PURNAMA,Male,26-06-2001,08166366261,,Jakarta,DKI Jakarta,17/10/2023,regular
+CUST0115,Ratna Purnama  ,M,29-12-1973,+628986105712,ratnapurnama304@mail.com,Jakarta,DKI Jakarta,24-07-2021,Member
+CUST0116,Aditya Wahyuni,Male,22 Jan 1972,628016389273,adityawahyuni117@yahoo.com,Semarang,Jawa Tengah,11/07/2022,Membre
+CUST0117,Putri    Hidayat,Female,03-06-1997,0833-0689-191,,Palembang,Sumatera Selatan,2022-10-06,regular
+CUST0118,Rudi Wahyuni,Female,01 Sep 1976,08859061888,rudiwahyuni329@mail.com,Bandung,Jawa Barat,14/04/2021,Membre
+CUST0119,Agus Gunawan,Male,06 Mar 1984,08146145006  ,agusgunawan671@yahoo.com,Surabaya,Jawa Timur,15-01-2023,member
+CUST0120,Hadi Lestari,Female,12/02/1975,+628060367531,hadilestari144@mail.com,Medan,Sumatera Utara,2021-08-08,regular
+CUST0121,Teguh Maharani,Female,01/11/1974,0870-6618-455,teguhmaharani544@gmail.com,Yogyakarta,DI Yogyakarta,06/06/2023,Membre
+CUST0122,dimas adiputra,Female,12/08/1992,+628846623328,dimasadiputra617@mail.com,Yogyakarta,DI Yogyakarta,05/09/2022,MEMBER
+CUST0123,Fajar Anggraini,Female,13/11/2001,0869-5631-345,fajaranggraini899@outlook.com,Jakarta,DKI Jakarta,2023-12-07,Reguler
+CUST0124,yoga wijaya,Male,29 Mar 1981,08107253466,yogawijaya244@mail.com,Surabaya,Jawa Timur,20 Nov 2024,Membre
+CUST0125,Zahra Wahyuni,Male,1997-11-02,+628884267357,zahrawahyuni302@yahoo.com,Malang,Jawa Timur,02 Jun 2021,regular
+CUST0126,Andi Firmansyah,Male,1970-04-03,0837-1130-966,andifirmansyah75@outlook.com,Surabaya,Jawa Timur,13/12/2023,regular
+CUST0127,Nita   Kusuma ,Male,1997-09-25,08598906496,nitakusuma699@gmail.com,Medan,Sumatera Utara,21-08-2021,REGULAR
+CUST0128,Lina Kusumo,Male,15/05/1984,0859-1950-067,linakusumo211@gmail.com,Medan,Sumatera Utara,2024-08-17,Member
+CUST0129, Dedi    Purnama ,Female,1988-04-14,08364065667,dedipurnama367@gmail.com,Jakarta,DKI Jakarta,17-08-2022,MEMBER
+CUST0130,Rian Yulianto,Female,1993-12-06,628277826289,rianyulianto567@gmail.com,Jakarta,DKI Jakarta,10-09-2021,Reguler
+CUST0131,Fajar Halim,Male,28-12-1992,08116216507  ,fajarhalim298@gmail.com,Bandung,Jawa Barat,21-07-2021,Reguler
+CUST0132, Bayu   Wahyuni,Female,16-03-1996,628158913776,bayuwahyuni138@outlook.com,Surabaya,Jawa Timur,10 Sep 2023,REGULAR
+CUST0133,hadi kurniawan,Female,12 Apr 1976,08817678868  ,,Bandung,Jawa Barat,19/01/2024,Vip
+CUST0134,iwan rahmawati,Female,05 Nov 1990,+628503029967,iwanrahmawati164@mail.com,Makassar,Sulawesi Selatan,12-09-2024,VIP
+CUST0135,Andi Wibowo,Male,1999-12-29,08293440937  ,andiwibowo593@outlook.com,Jakarta,DKI Jakarta,11-02-2023,MEMBER
+CUST0136,sari yulianto,Female,22 Jul 2005,628465110621,sariyulianto677@gmail.com,Surabaya,Jawa Timur,21/08/2021,Reguler
+CUST0137,Anton Setiawan,Male,28/07/1996,08160502195,,Semarang,Jawa Tengah,27/05/2024,vip
+CUST0138,Bagus Firmansyah,Female,1999-08-04,08516950310  ,,Semarang,Jawa Tengah,13 Jun 2024,Member
+CUST0139,Yoga Hidayat,Male,09-06-2000,08653052873,yogahidayat138@mail.com,Bandung,Jawa Barat,21/06/2021,Reguler
+CUST0140, Budi   Purnama ,Female,13-10-1974,0816-2843-267,budipurnama184@mail.com,Yogyakarta,DI Yogyakarta,18 Sep 2023,REGULAR
+CUST0141,Salsa Hidayat,Female,15/05/2001,08915786603,,Denpasar,Bali,11-06-2023,REGULAR
+CUST0142,AGUS ANGGRAINI,Female,1993-05-16,08290714089  ,agusanggraini35@yahoo.com,Yogyakarta,DI Yogyakarta,23-11-2023,member
+CUST0143, HENDRA RAMADHAN   ,Female,2003-01-21,+628795755382,hendraramadhan953@mail.com,Jakarta,DKI Jakarta,19-06-2022,Regular
+CUST0144,Wahyu Kurniawan,Female,16/10/1995,08243423768,wahyukurniawan120@mail.com,Medan,Sumatera Utara,21-07-2024,member
+CUST0145, Nita  Suryani  ,Female,1978-01-03,+628438296941,nitasuryani212@outlook.com,Bandung,Jawa Barat,2024-06-20,Regular
+CUST0146, Melati   Wahyuni ,Female,09 Oct 1995,0884-9922-507,melatiwahyuni515@gmail.com,Malang,Jawa Timur,24-12-2021,Regular
+CUST0147,KRISNA SAPUTRA,Female,1997-06-27,628812293144,krisnasaputra875@outlook.com,Semarang,Jawa Tengah,04-01-2022,member
+CUST0148,Aditya Wibowo,Male,2003-02-17,628181498577,adityawibowo576@outlook.com,Jakarta,DKI Jakarta,27/03/2023,regular
+CUST0149,Citra Handayani,Male,1986-03-12,08358343665,citrahandayani364@outlook.com,Yogyakarta,DI Yogyakarta,26 Sep 2023,Membre
+CUST0150,Galih Nugroho,Female,18 Feb 1985,08464903367  ,galihnugroho909@outlook.com,Surabaya,Jawa Timur,17/04/2024,Membre
+CUST0151,YUSUF MAHARANI,Female,07-06-2001,08723094075,yusufmaharani269@gmail.com,Jakarta,DKI Jakarta,03/09/2024,vip
+CUST0152,Hendra Halim,Male,14-04-1971,08039848951,hendrahalim647@mail.com,Makassar,Sulawesi Selatan,10 Jun 2023,MEMBER
+CUST0153,Retno Wibowo,Male,14-08-1983,628057125647,retnowibowo785@gmail.com,Surabaya,Jawa Timur,07/05/2024,Regular
+CUST0154,Nita Prasetyo,Male,26 Jun 1987,08820657662  ,nitaprasetyo193@mail.com,Jakarta,DKI Jakarta,07-10-2021,Reguler
+CUST0155,Krisna Anggraini,Male,1970-12-29,628112772143,krisnaanggraini381@mail.com,Jakarta,DKI Jakarta,08-11-2022,regular
+CUST0156,NAUFAL RAHMAWATI,Male,1987-02-12,08817274704,naufalrahmawati485@yahoo.com,Surabaya,Jawa Timur,24-10-2022,Regular
+CUST0157,Tuti Ramadhan,Male,1975-01-25,0824-0753-295,tutiramadhan381@yahoo.com,Bandung,Jawa Barat,2021-11-19,REGULAR
+CUST0158,ratna ramadhan,Male,17/03/1984,08977841631,ratnaramadhan724@mail.com,Surabaya,Jawa Timur,17-01-2024,member
+CUST0159,Maya Halim,Female,12/03/1977,08012230631,mayahalim795@outlook.com,Surabaya,Jawa Timur,10 May 2021,Membre
+CUST0160,naufal kusuma,Male,1974-04-27,0850-8182-405,naufalkusuma539@mail.com,Makassar,Sulawesi Selatan,2022-06-09,regular
+CUST0161,teguh yulianto,Female,06 Dec 2005,08637887065,teguhyulianto80@outlook.com,Yogyakarta,DI Yogyakarta,18/07/2021,regular
+CUST0162,Nadia Puspita,Female,14-01-1995,0841-6346-811,nadiapuspita674@outlook.com,Denpasar,Bali,27-06-2023,vip
+CUST0163,Nita Lestari,Male,1994-06-23,08279294379,nitalestari912@yahoo.com,Surabaya,Jawa Timur,31-03-2022,REGULAR
+CUST0164,Anisa Kusuma,Female,26-08-1990,08313528039,anisakusuma812@outlook.com,Semarang,Jawa Tengah,2024-11-13,Member
+CUST0165, Dimas   Kusumo,Male,29 May 1975,08826607330,dimaskusumo515@outlook.com,Jakarta,DKI Jakarta,2021-04-14,Membre
+CUST0166,Wulan Firmansyah,Male,20 Aug 1995,0875-2346-741,wulanfirmansyah575@yahoo.com,Yogyakarta,DI Yogyakarta,20-05-2022,REGULAR
+CUST0167, Melati Yulianto   ,F,1983-09-04,+628138864926,melatiyulianto116@gmail.com,Bandung,Jawa Barat,25-06-2024,vip
+CUST0168,KRISNA KUSUMO,Male,18 Feb 1994,08257569663,,Bandung,Jawa Barat,2024-11-27,Member
+CUST0169,Rina Rahmawati,Female,1974-11-03,08086239038,rinarahmawati204@yahoo.com,Semarang,Jawa Tengah,23/02/2024,VIP
+CUST0170,Teguh Puspita,F,11/09/2000,08362958688,teguhpuspita231@outlook.com,Medan,Sumatera Utara,07 Sep 2024,Reguler
+CUST0171,hendra permata,Female,28/04/1994,0816-5621-689,hendrapermata672@yahoo.com,Jakarta,DKI Jakarta,13-10-2022,Regular
+CUST0172,bagus prasetyo  ,Male,27/07/1998,+628927117625,bagusprasetyo237@yahoo.com,Surabaya,Jawa Timur,12 Jun 2021,Membre
+CUST0173,Farah Ramadhan,Female,02 Sep 1978,+628249992622,farahramadhan888@mail.com,Surabaya,Jawa Timur,2023-07-27,vip
+CUST0174,Sinta Halim,Male,28 Aug 1995,08558754809  ,sintahalim572@gmail.com,Palembang,Sumatera Selatan,11-04-2021,Reguler
+CUST0175, Naufal Adiputra  ,Male,1990-04-06,0805-1585-330,naufaladiputra904@yahoo.com,Bandung,Jawa Barat,2022-10-26,member
+CUST0176,Putri Purnama,Female,26-06-2005,+628961501388,putripurnama184@yahoo.com,Jakarta,DKI Jakarta,10/05/2023,Reguler
+CUST0177,putri prasetyo,Female,1990-07-29,08448642644,putriprasetyo904@yahoo.com,Denpasar,Bali,11/07/2024,member
+CUST0178,Fitri   Wijaya ,F,14 Sep 1988,628912665597,fitriwijaya96@gmail.com,Surabaya,Jawa Timur,2023-01-25,VIP
+CUST0179,doni susanto,Male,14/07/1993,628220595076,donisusanto624@mail.com,Bandung,Jawa Barat,13 Dec 2023,MEMBER
+CUST0180,Bambang Halim,Male,14-10-2001,08211477264,bambanghalim359@outlook.com,Palembang,Sumatera Selatan,11-03-2022,regular
+CUST0181,Zahra Santoso,M,06 Oct 2000,0833-5981-894,,Jakarta,DKI Jakarta,08 Jul 2024,REGULAR
+CUST0182,TEGUH HALIM,Female,27-11-1994,0852-6783-920,teguhhalim585@yahoo.com,Jakarta,DKI Jakarta,2024-05-03,REGULAR
+CUST0183,AYU FIRMANSYAH,Male,1983-07-30,08231779404,ayufirmansyah349@yahoo.com,Yogyakarta,DI Yogyakarta,28/09/2022,member
+CUST0184,FAJAR HALIM,Female,1983-12-14,08965040563  ,fajarhalim329@yahoo.com,Surabaya,Jawa Timur,21-07-2022,Membre
+CUST0185, Fitri    Setiawan ,Male,16 Sep 1982,0851-3850-090,fitrisetiawan89@gmail.com,Jakarta,DKI Jakarta,05-05-2024,Vip
+CUST0186,Indra Utami,Female,26/11/2003,0875-0860-367,indrautami971@yahoo.com,Denpasar,Bali,13-06-2022,vip
+CUST0187,Zahra Maharani,Male,07/10/1985,08482355471,zahramaharani546@outlook.com,Makassar,Sulawesi Selatan,27 Apr 2023,regular
+CUST0188,Sari Santoso,Female,1989-07-12,08536167781  ,,Semarang,Jawa Tengah,2021-12-27,Reguler
+CUST0189,Melati Adiputra,Male,04 Oct 1972,0808-8960-115,melatiadiputra201@mail.com,Surabaya,Jawa Timur,06-09-2022,MEMBER
+CUST0190,AGUS PERMATA,Male,13/03/1983,0809-9059-120,aguspermata641@mail.com,Medan,Sumatera Utara,12 Apr 2023,regular
+CUST0191,Bayu Pratama,Male,10/12/1982,08961007449,bayupratama658@yahoo.com,Semarang,Jawa Tengah,25 Nov 2024,Membre
+CUST0192,Lina Firmansyah,Male,13 Feb 1997,0804-7729-500,linafirmansyah116@outlook.com,Jakarta,DKI Jakarta,2021-10-18,MEMBER
+CUST0193,Bambang Prasetyo,Female,31-12-1999,0806-7303-745,bambangprasetyo432@outlook.com,Surabaya,Jawa Timur,2022-08-16,REGULAR
+CUST0194,Reza Susanto,Female,29/01/2003,08620582128,rezasusanto619@gmail.com,Makassar,Sulawesi Selatan,06-11-2021,MEMBER
+CUST0195,zahra purnama,F,1973-10-14,+628958874367,zahrapurnama592@yahoo.com,Surabaya,Jawa Timur,22/04/2021,Member
+CUST0196,Dedi Rahmawati,Female,25-06-1980,08374180946,dedirahmawati940@gmail.com,Surabaya,Jawa Timur,04-06-2023,MEMBER
+CUST0197,AYU KUSUMO,Male,09-08-2003,08267569300,,Jakarta,DKI Jakarta,04-11-2024,regular
+CUST0198,NADIA   WIJAYA,Male,30-10-1975,08376811126,nadiawijaya945@mail.com,Medan,Sumatera Utara,18/11/2024,vip
+CUST0199, Naufal Santoso  ,Male,1992-01-22,0892-3615-461,,Jakarta,DKI Jakarta,16 Mar 2024,Membre
+CUST0200,Fitri Ramadhan,Female,27-05-2001,08330774478,fitriramadhan4@yahoo.com,Semarang,Jawa Tengah,06-09-2021,MEMBER
