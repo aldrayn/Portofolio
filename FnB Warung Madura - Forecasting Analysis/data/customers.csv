@@ -1,0 +1,101 @@
+customer_id,customer_name,gender,age,education,occupation
+C0001,Agus Wijaya,Male,40,S2,Akuntan
+C0002,Dimas Kurniawan,Male,48,SMA,Mahasiswa
+C0003,Agus Lestari,Male,25,D3,HR Staff
+C0004,Arif Wijaya,Male,51,S1,Akuntan
+C0005,Yoga Hartono,Male,43,S2,Mahasiswa
+C0006,Andi Kurniawan,Male,35,SMA,UI Designer
+C0007,Ilham Saputra,Male,26,D3,Perawat
+C0008,Fajar Nugroho,Male,48,D3,Mahasiswa
+C0009,Ilham Kurniawan,Male,45,D3,Driver
+C0010,Arif Ramadhan,Male,36,S2,Mahasiswa
+C0011,Fajar Maulana,Male,25,S1,Driver
+C0012,Rian Maulana,Male,48,S2,Karyawan Swasta
+C0013,Fajar Saputra,Male,35,D3,Karyawan Swasta
+C0014,Hendra Nugroho,Male,39,SMA,Mahasiswa
+C0015,Dimas Maulana,Male,33,S2,Akuntan
+C0016,Ahmad Kurniawan,Male,25,S1,Driver
+C0017,Ilham Permata,Male,31,S1,Data Analyst
+C0018,Rian Kurniawan,Male,49,SMA,HR Staff
+C0019,Reza Ramadhan,Male,27,SMA,HR Staff
+C0020,Ilham Permata,Male,31,SMA,HR Staff
+C0021,Yoga Pratama,Male,52,S2,Data Analyst
+C0022,Yoga Ramadhan,Male,42,S1,Mahasiswa
+C0023,Andi Pratama,Male,33,D3,Mahasiswa
+C0024,Ahmad Ramadhan,Male,26,S1,Perawat
+C0025,Budi Lestari,Male,22,S2,UI Designer
+C0026,Dimas Kurniawan,Male,54,S1,Driver
+C0027,Ahmad Nugroho,Male,51,S2,Mahasiswa
+C0028,Eko Saputra,Male,44,S2,Perawat
+C0029,Rian Pratama,Male,31,S1,Wiraswasta
+C0030,Ilham Hartono,Male,37,S1,Karyawan Swasta
+C0031,Eko Wijaya,Male,33,D3,Mahasiswa
+C0032,Rizky Maulana,Male,24,S2,Guru
+C0033,Eko Pratama,Male,36,D3,Guru
+C0034,Rizky Ramadhan,Male,34,D3,Karyawan Swasta
+C0035,Hendra Saputra,Male,20,SMA,Akuntan
+C0036,Rizky Nugroho,Male,43,SMA,HR Staff
+C0037,Fajar Nugroho,Male,52,S1,Driver
+C0038,Dimas Wijaya,Male,22,S1,HR Staff
+C0039,Fajar Pratama,Male,48,SMA,Guru
+C0040,Reza Kurniawan,Male,53,D3,Akuntan
+C0041,Ilham Lestari,Male,25,SMA,HR Staff
+C0042,Fajar Saputra,Male,29,D3,UI Designer
+C0043,Eko Maulana,Male,29,D3,Wiraswasta
+C0044,Fajar Permata,Male,47,S1,Akuntan
+C0045,Yoga Saputra,Male,28,S1,Driver
+C0046,Fajar Lestari,Male,53,S1,Wiraswasta
+C0047,Budi Ramadhan,Male,28,S2,Data Analyst
+C0048,Hendra Pratama,Male,50,SMA,Perawat
+C0049,Reza Saputra,Male,23,D3,HR Staff
+C0050,Yoga Lestari,Male,23,S2,HR Staff
+C0051,Citra Pratama,Female,45,S1,HR Staff
+C0052,Citra Nugroho,Female,47,S2,Guru
+C0053,Rina Permata,Female,19,D3,Guru
+C0054,Intan Lestari,Female,22,D3,Driver
+C0055,Fitri Maulana,Female,53,SMA,Guru
+C0056,Rina Lestari,Female,54,D3,HR Staff
+C0057,Yuni Maulana,Female,26,D3,Wiraswasta
+C0058,Lina Hartono,Female,35,SMA,Driver
+C0059,Yuni Permata,Female,26,D3,Guru
+C0060,Aulia Hartono,Female,25,S1,Akuntan
+C0061,Nur Lestari,Female,48,S2,Akuntan
+C0062,Intan Kurniawan,Female,35,S1,Driver
+C0063,Intan Pratama,Female,48,SMA,Akuntan
+C0064,Lina Pratama,Female,50,S2,Mahasiswa
+C0065,Fitri Pratama,Female,44,S1,Akuntan
+C0066,Nabila Saputra,Female,33,S2,HR Staff
+C0067,Intan Kurniawan,Female,25,S2,Akuntan
+C0068,Anisa Permata,Female,24,S1,Perawat
+C0069,Nur Wijaya,Female,30,SMA,Mahasiswa
+C0070,Nabila Ramadhan,Female,50,D3,Karyawan Swasta
+C0071,Rina Wijaya,Female,52,SMA,Data Analyst
+C0072,Maya Nugroho,Female,40,S2,Akuntan
+C0073,Siti Lestari,Female,34,SMA,Wiraswasta
+C0074,Lina Permata,Female,20,S1,Akuntan
+C0075,Nur Maulana,Female,55,S2,Karyawan Swasta
+C0076,Fitri Hartono,Female,50,SMA,HR Staff
+C0077,Maya Nugroho,Female,40,D3,Guru
+C0078,Intan Hartono,Female,23,SMA,HR Staff
+C0079,Nur Lestari,Female,39,S2,Wiraswasta
+C0080,Nabila Nugroho,Female,45,S2,Mahasiswa
+C0081,Citra Pratama,Female,44,S1,Perawat
+C0082,Siti Ramadhan,Female,22,S2,UI Designer
+C0083,Fitri Maulana,Female,36,D3,Akuntan
+C0084,Yuni Kurniawan,Female,37,SMA,Guru
+C0085,Dewi Nugroho,Female,51,S1,Wiraswasta
+C0086,Lina Saputra,Female,27,SMA,Wiraswasta
+C0087,Sarah Permata,Female,54,S1,Driver
+C0088,Citra Pratama,Female,32,S2,Akuntan
+C0089,Maya Maulana,Female,25,SMA,Perawat
+C0090,Nur Pratama,Female,54,SMA,Guru
+C0091,Nur Nugroho,Female,43,D3,Wiraswasta
+C0092,Siti Nugroho,Female,23,S2,Wiraswasta
+C0093,Aulia Pratama,Female,24,SMA,Perawat
+C0094,Maya Saputra,Female,23,SMA,Perawat
+C0095,Citra Maulana,Female,38,S2,HR Staff
+C0096,Nur Lestari,Female,46,S1,Wiraswasta
+C0097,Rina Wijaya,Female,54,SMA,HR Staff
+C0098,Siti Pratama,Female,44,D3,Karyawan Swasta
+C0099,Aulia Maulana,Female,29,D3,UI Designer
+C0100,Yuni Permata,Female,28,S1,Data Analyst

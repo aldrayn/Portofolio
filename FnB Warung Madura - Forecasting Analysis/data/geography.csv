@@ -1,0 +1,11 @@
+geography_id,province,city_regency,district
+G001,Jawa Barat,Kota Bandung,Coblong
+G002,Jawa Barat,Kota Bekasi,Bekasi Selatan
+G003,DKI Jakarta,Jakarta Selatan,Kebayoran Baru
+G004,Jawa Timur,Kota Surabaya,Wonokromo
+G005,DI Yogyakarta,Kota Yogyakarta,Gondokusuman
+G006,Jawa Tengah,Kota Semarang,Banyumanik
+G007,Banten,Kota Tangerang,Ciledug
+G008,Sumatera Utara,Kota Medan,Medan Baru
+G009,Bali,Kabupaten Badung,Kuta
+G010,Sulawesi Selatan,Kota Makassar,Panakkukang
